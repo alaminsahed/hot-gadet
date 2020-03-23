@@ -1,0 +1,56 @@
+
+/*carousel*/
+.carousel-item img{
+    width: 700px;
+    height: 500px;
+    margin-left: 30px;
+}
+ .container .carousel-indicators li{
+     
+     background-color: orange;
+ }
+  /*smartphone, laptop*/
+  .container #see{
+    color: orange;
+    
+ }
+ .price{
+     margin-top: 5px;
+     text-align: center;
+     font-weight: bold;
+     font-size: 20px;
+ }
+ .card-deck{
+    margin-top: 10px;
+    margin-bottom: 30px;
+
+ }
+
+ .card-deck .card{
+    border:none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px gray;
+}
+/*button*/
+.btn{
+   margin-left: 30%;
+}
+ /*catagory*/
+.container .text-center{
+    text-decoration: underline;
+    text-decoration-color: orange;
+    margin-bottom: 80px;
+}
+
+.img-length img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    padding: 60px;
+    margin: 20px;
+    box-shadow: 10px 10px 15px gray;
+}
+
+.row .d-flex{
+    margin-bottom: 300px;
+}
